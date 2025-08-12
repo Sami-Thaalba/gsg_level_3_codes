@@ -17,6 +17,7 @@ Swimming Running
 COUNT: 6
 ```
 the expected count formual is : (3 * 2^(n-1))
-
+```
 Sami Thaalba
-420824674
+sami17.27.shahwan@gmail.com
+```
