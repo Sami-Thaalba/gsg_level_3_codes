@@ -37,6 +37,6 @@ int main()
         }
     }
     cout << 3 * (int)pow(2, n - 1) << endl;
-
+//
     return 0;
 }
